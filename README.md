@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+This is a project written in HTML, informing about me, my skills and tastes. is my first project as a web developer, contributing to my portfolio and
+strengthening knowledge acquired in my studio. we will be able to see informative text, forms, images and videos.
 <!--
 **AFAT17/AFAT17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
